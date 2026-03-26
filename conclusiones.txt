@@ -1,0 +1,11 @@
+# Hallazgos y Conclusiones
+
+Durante el desarrollo de este ejercicio pude identificar varios puntos importantes.
+
+Primero, el proyecto está bien estructurado usando Gradle y Serenity BDD. La organización del código facilita la ejecución y el mantenimiento de las pruebas. El uso del Gradle Wrapper me permitió ejecutar el proyecto sin depender de una instalación previa de Gradle, lo cual considero una buena práctica.
+
+En cuanto a la automatización, trabajar con Serenity BDD me permitió separar claramente los pasos y la lógica de las pruebas, lo que mejora la legibilidad y el orden del proyecto. Además, la generación de reportes ayuda a visualizar mejor los resultados de la ejecución.
+
+Sin embargo, también identifiqué oportunidades de mejora. Considero que sería útil agregar más documentación para explicar claramente qué escenarios cubren las pruebas y cuál es el objetivo del ejercicio. Esto ayudaría a cualquier persona que revise el repositorio a entender rápidamente el contexto sin necesidad de analizar todo el código.
+
+En conclusión, el ejercicio me permitió aplicar buenas prácticas de automatización en Java y reforzar el uso de Serenity y Gradle. También me hizo reflexionar sobre la importancia de la documentación como parte fundamental de cualquier proyecto técnico.
